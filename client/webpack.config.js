@@ -23,13 +23,13 @@ module.exports = () => {
         title: "JATE",
       }),
 
-      new InjectManifest({
+      // new InjectManifest({
 
-      }),
+      // }),
 
-      new WebpackPwaManifest({
+      // new WebpackPwaManifest({
 
-      })
+      // })
     ],
 
     module: {
