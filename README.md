@@ -25,9 +25,7 @@ you must install node, indexdb, express using init -y and npm i to download all 
  You must run npm i to download the correct packages.
 
 ## Test - 🧪
-you can use compass to test the database 
-
-## Preview Video
+you can download the application as a pwa to make sure that it does work correctly
 
 
 ## Preview Photo
