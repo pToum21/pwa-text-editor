@@ -1,6 +1,11 @@
 # JUST ANOTHER TEXT EDITOR
 
 ## Description - 💠
+- Just another text editor(JATE)
+- a terxt editor that works as a notes padd as well and chaches all written content
+- all data is entered in the database using indexDb
+- this application also functions offline as a pwa
+- applcation is installable as a pwa
 
 
 ## Table of Contents - 📋
