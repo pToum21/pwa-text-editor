@@ -25,3 +25,5 @@ butInstall.addEventListener('click', async () => {
 window.addEventListener('appinstalled', (event) => {
     window.deferredPrompt = null;
 });
+
+// the jate logo on the top right of the webpage is not displaying, this needs to be fixed
