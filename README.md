@@ -27,9 +27,8 @@ you must install node, indexdb, express using init -y and npm i to download all 
 ## Test - 🧪
 you can download the application as a pwa to make sure that it does work correctly
 
-
 ## Preview Photo
-
+![New Tab - Google Chrome 1_7_2024 4_38_41 PM](https://github.com/pToum21/pwa-text-editor/assets/138056441/bb8e5bab-2b37-4dab-9fd1-0e8709c75a65)
 
 ## Qustions - ❓
 Feel Free to contact me at pey3moo3@gmail.com or [ptoum21](https://github.com/ptoum21).
