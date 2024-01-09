@@ -13,18 +13,19 @@ butInstall.addEventListener('click', async () => {
     const promptEvent = window.deferredPrompt;
 
     if (!promptEvent) {
-     return;
+        return;
     }
-  
+
     promptEvent.prompt();
-    
+
     window.deferredPrompt = null;
-    
-    butInstall.classList.toggle('hidden', true);});
+
+    butInstall.classList.toggle('hidden', true);
+});
 
 // handler for the `appinstalled` event
 window.addEventListener('appinstalled', (event) => {
     window.deferredPrompt = null;
 });
 
-// the jate logo on the top right of the webpage is not displaying, this needs to be fixed
+
