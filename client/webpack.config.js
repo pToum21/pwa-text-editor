@@ -29,6 +29,8 @@ module.exports = () => {
         name: "JUST ANOTHER TEXT EDITOR",
         short_name: "J.A.T.E",
         description: "A text editor that also allows you to take notes with the help of webpack",
+        background_color: "#225ca3",
+        theme_color: "#225ca3",
         publicPath: "./",
         start_url: "./",
         icons: [
