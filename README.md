@@ -7,6 +7,8 @@
 - this application also functions offline as a pwa
 - applcation is installable as a pwa
 
+## Deployed Application - 👾
+https://just-a-better-text-editor-71479ca883ee.herokuapp.com/
 
 ## Table of Contents - 📋
 * [Installation](#installation---☢️)
